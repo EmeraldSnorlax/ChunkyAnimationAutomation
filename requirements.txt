@@ -1,6 +1,6 @@
 colorama==0.4.1
 progress==1.5
-psutil==5.6.3
+psutil==5.6.6
 py-clui==0.0.3
 sultan==0.9.1
 
